@@ -1,7 +1,5 @@
 # Create a Lume scene
 
-View this page in [Docsify-This](https://docsify-this.net) to see it [rendered](https://docsify-this.net/?executeScript=true&basePath=https://raw.githubusercontent.com/trusktr/tmp/main&homepage=test.md#/). 
-
 The following is a [Lume](https://lume.io) scene with a rotating box:
 
 <div style="width: 400px; height: 300px;">
